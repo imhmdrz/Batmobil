@@ -1,8 +1,3 @@
-# Simple Car Controller
-
-![Screenshot 2023-07-05 174536](https://github.com/AhzamRasul/SimpleCarController/assets/50517265/f00cb758-8382-4524-b5e4-23a47bb48038)
-
-This repository contains a simple car controller for Unity 2021.3.8f1, designed for 3D games using the Universal Render Pipeline (URP). The car controller utilizes the free "Arcade Car" package obtained from the Unity Asset Store.
 
 ## Getting Started
 
